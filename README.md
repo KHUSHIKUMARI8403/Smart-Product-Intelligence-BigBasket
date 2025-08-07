@@ -74,12 +74,7 @@ BigBasket, India's largest online grocery platform, manages thousands of product
 - Working with real-world FMCG product data
 
 
-
-##  Files Included
-
-
-
-
+ 
 ##  Future Scope
 
 - Add Return & Expiry Cost Analysis  
